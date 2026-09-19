@@ -67,4 +67,4 @@ def get_resume_data(query:str) -> str:
     return response
 
 response = get_resume_data.invoke("skills")
-print(response)
+#print(response)
